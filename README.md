@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @3BEDA0
+- 👋 Hi, I’m @3BEDA
 - 👀 I’m interested in ... technology 
 - 🌱 I’m currently learning ...programming 
 - 💞️ I’m looking to collaborate on ...life 
