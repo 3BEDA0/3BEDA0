@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @3BEDA0
 - 👀 I’m interested in ... technology 
 - 🌱 I’m currently learning ...programming 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ...life 
+- 📫 How to reach me ... abedatham912@gmail.com
 
 <!---
 3BEDA0/3BEDA0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
